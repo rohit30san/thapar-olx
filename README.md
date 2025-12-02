@@ -90,5 +90,3 @@ Built using **React (Vite) + Firebase**, the platform ensures that only verified
 | Storage | Firebase Storage |
 | Deployment | Firebase Hosting |
 | CI/CD | GitHub Actions |
-git clone https://github.com/YOUR_USERNAME/thapar-olx.git
-cd thapar-olx
